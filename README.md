@@ -1,6 +1,6 @@
 # Toward Nearly-Zero-Error Sketching via Compressive Sensing
 
-#### Description of all files and directories
+### Description of all files and directories
 
 |------data/:  the processed CAIDA trace
 
@@ -26,9 +26,9 @@
 
 |------EmbedSketch/: source code of EmbedSketch
 
+&nbsp;
 
-
-#### Compile the program
+### Compile the program
 
 You can compile the program with the shell script:
 
@@ -49,9 +49,9 @@ Then, the executable file is in the `bin` directory.
 
 **Note: After changing the parameters in `parameters.h`, you need to re-execute the `make` command.**
 
+&nbsp;
 
-
-#### Run the program
+### Run the program
 
 You can run the program with the following constructions:
 
