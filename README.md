@@ -6,23 +6,23 @@
 
 |------include/: the common header files
 
-|	  |----common.h：definitions of flowkeys
+|&emsp;&emsp;|----common.h：definitions of flowkeys
 
-|	  |----BloomFilter.h：operations of Bloom Filter
+|&emsp;&emsp;|----BloomFilter.h：operations of Bloom Filter
 
-|	  |----AwareHash.h：the hash function
+|&emsp;&emsp;|----AwareHash.h：the hash function
 
-|	  |----Eigen/：to solve the problem of compressive sensing
+|&emsp;&emsp;|----Eigen/：to solve the problem of compressive sensing
 
 |------SeqSketch/: source code of SeqSketch
 
-|	  |----HashTable.h：operations of the hash table
+|&emsp;&emsp;|----HashTable.h：operations of the hash table
 
-|	  |----CMsketch.h：operations of the fractional sketch
+|&emsp;&emsp;|----CMsketch.h：operations of the fractional sketch
 
-|	  |----sketch.h：operations of SeqSketch
+|&emsp;&emsp;|----sketch.h：operations of SeqSketch
 
-|	  |----parameters.h：all parameters
+|&emsp;&emsp;|----parameters.h：all parameters
 
 |------EmbedSketch/: source code of EmbedSketch
 
